@@ -11,6 +11,6 @@
 - 🌱 I’m currently learning: IT Essential 8
 - 👯 I’m looking to collaborate on: Projects that blend environmental science and tech
 - 💬 Ask me about: Biocontrol, GIS mapping, cybersecurity fundamentals, and plant sciences
-- 📫 How to reach me: [your email]  
+- 📫 How to reach me: sanelemfusi01@gmail.com  
 - ⚡ Fun fact: I taught myself how to use QGIS without any formal geography background!
 
