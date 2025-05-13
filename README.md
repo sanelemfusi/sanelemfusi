@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Sanele Mfusi
 
-🎓 I have an Honours degree in Botany and a deep passion for understanding life through science.  
-💻 Recently, I’ve been expanding my skill set into tech — with certifications in **Introduction to Cybersecurity** and **Data Analytics Essentials** from Cisco Networking Academy.  
+🎓 I have an Honours degree in Botany.  
+💻 Recently, I’ve been expanding my skill set into tech, with certifications in **Introduction to Cybersecurity** and **Data Analytics Essentials** from Cisco Networking Academy.  
 🌍 I also completed **SANBI Risk Analysis** training and have self-taught skills in **QGIS** for spatial data mapping.  
 🔧 I’m currently learning **IT Essentials (CompTIA A+ equivalent)** to strengthen my technical knowledge.  
 🧠 I'm passionate about solving real-world problems with both scientific and digital tools.  
