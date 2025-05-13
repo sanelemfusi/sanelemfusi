@@ -8,7 +8,7 @@
 
 ---
 
-- 🌱 I’m currently learning: IT Essentials, and planning to explore TI’s Essential 8
+- 🌱 I’m currently learning: IT Essential 8
 - 👯 I’m looking to collaborate on: Projects that blend environmental science and tech
 - 💬 Ask me about: Biocontrol, GIS mapping, cybersecurity fundamentals, and plant sciences
 - 📫 How to reach me: [your email]  
